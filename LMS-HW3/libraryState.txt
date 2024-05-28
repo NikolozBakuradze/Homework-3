@@ -1,0 +1,7 @@
+Harry Potter and the Philosopher's Stone,J.K. Rowling
+Clean Code,Robert C. Martin
+The Lean Startup,Eric Ries
+
+Harry Potter and the Philosopher's Stone,J.K. Rowling,John,Doe,123456
+Clean Code,Robert C. Martin,Jane,Smith,789012
+The Lean Startup,Eric Ries,Bob,Johnson,345678
